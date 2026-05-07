@@ -6,6 +6,7 @@
 # IsoLogic: Infection Prevention Isolation & PPE Quick Guide
 # This program helps users select an infectious condition and receive
 # recommended isolation precautions, PPE, and cleaning reminders.
+# updated for readability
 
 
 def get_precaution(condition):
