@@ -60,7 +60,7 @@ Add your repository link here.
 
 Example:
 
-https://github.com/yourusername/IsoLogic
+https://github.com/awest2390/ISOLOGIC
 
 ---
 
